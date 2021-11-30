@@ -13,3 +13,7 @@ determine the most used word (methods for this will be supplied here) and type
 it in large font at the top of the Eye Chart. Lesser-used words should appear
 beneath it in smaller font. Some examples of finished products are below.
 
+## Examples
+
+**President Obama's Inaugural Address**
+![Obama's Inaugrual Address](obama.png)
