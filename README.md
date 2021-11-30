@@ -15,5 +15,11 @@ beneath it in smaller font. Some examples of finished products are below.
 
 ## Examples
 
-**President Obama's Inaugural Address**
+**President Obama's First Inaugural Address**
 ![Obama's Inaugrual Address](obama.png)
+
+**President Trump's Inaugural Address**
+![Trump's Inaugural Address](trump.png)
+
+**Winston Churchill's _Fight on the Beaches_ Speech**
+![We Shall Fight on the Beaches](beaches.png)
