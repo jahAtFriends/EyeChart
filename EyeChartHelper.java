@@ -52,6 +52,10 @@ String getMostUsedWord(String[] x, String[] boring, int n)
     }
     frqCounter++;
   }
+  
+  //Add the (alphabetically) last word and frequency to the respective arrays.
+  numberOfUses.add(new Integer(frqCounter));
+  uniqueWords.add(currentWord);
 
   Integer largestFound = new Integer(0);
 
