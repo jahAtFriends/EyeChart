@@ -33,14 +33,14 @@ repository directly into your Processing project. _Do not Edit it_! This will
 only make it stop working.
 
 I don't expect you to know how this code works, so I've provided you with a
-very helpful [JavaDoc] (FriendsbaltCS.github.io/docs/Intro/EyeChart/index.html)
+very helpful [JavaDoc](FriendsbaltCS.github.io/docs/Intro/EyeChart/index.html)
 
 You will also need to use a couple of Processing's methods:
 
 1. To [load the speech from a text file](https://processing.org/reference/loadStrings_.html)
 2. To [Trim extra space from words](https://processing.org/reference/trim_.html)
 
-Java's [Method for turning Strings into arrays of words] (https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#split(java.lang.String))
+Java's [Method for turning Strings into arrays of words](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#split(java.lang.String))
 is also helpful. The Javadoc here is tricky, but we'll discuss this more in class. Ask if you have questions about it!
 
 ## Requirements
