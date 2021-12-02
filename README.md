@@ -47,7 +47,7 @@ is also helpful. The Javadoc here is tricky, but we'll discuss this more in clas
 
 Your program should do the following:
 
-1. Read an normally-formatted (normal sentence structure with periods and spaces)
+1. Read a normally-formatted (normal sentence structure with periods and spaces)
 speech from a .txt file saved in your sketch's data folder.
 
 2. Design an Eye Chart (like the one's above) with at least eight individual
