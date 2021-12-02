@@ -48,7 +48,8 @@ is also helpful. The Javadoc here is tricky, but we'll discuss this more in clas
 Your program should do the following:
 
 1. Read a normally-formatted (normal sentence structure with periods and spaces)
-speech from a .txt file saved in your sketch's data folder.
+speech from a .txt file saved in your sketch's data folder. No cheating by formatting
+the speech file with words on their own lines. The text file should just be the _raw_ speech.
 
 2. Design an Eye Chart (like the one's above) with at least eight individual
 words. The eye chart must be purely _arbitrary_, that is, the computer must do
