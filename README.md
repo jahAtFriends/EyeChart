@@ -33,7 +33,7 @@ repository directly into your Processing project. _Do not Edit it_! This will
 only make it stop working.
 
 I don't expect you to know how this code works, so I've provided you with a
-very helpful [JavaDoc](FriendsbaltCS.github.io/docs/Intro/EyeChart/index.html)
+very helpful [JavaDoc](https://FriendsbaltCS.github.io/docs/Intro/EyeChart/index.html)
 
 You will also need to use a couple of Processing's methods:
 
